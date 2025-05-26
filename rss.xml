@@ -4,10 +4,18 @@
     <link href="https://jzfdsgn.github.io/" rel="alternate" type="text/html" />
     <link href="https://jzfdsgn.github.io/rss.xml" rel="self" type="application/atom+xml" />
     <id>https://jzfdsgn.github.io/</id>
-    <updated>2025-05-26T06:41:12.327Z</updated>
+    <updated>2025-05-26T07:04:29.198Z</updated>
     <subtitle>A tiny, little blog about a big ol’ hobby — the One Piece Card Game.</subtitle>
     <generator uri="https://postalgic.app/" version="1.0">Postalgic</generator>
     
+    <entry>
+        <title>Test #3</title>
+        <link href="https://jzfdsgn.github.io/2025/05/26/test-3/" rel="alternate" type="text/html" />
+        <id>https://jzfdsgn.github.io/2025/05/26/test-3/</id>
+        <published>2025-05-26T07:04:11.660Z</published>
+        <updated>2025-05-26T07:04:11.660Z</updated>
+        <content type="html"><![CDATA[<p>Hopefully this works..</p>]]></content>
+    </entry>
     <entry>
         <title>Test #2</title>
         <link href="https://jzfdsgn.github.io/2025/05/25/test-2/" rel="alternate" type="text/html" />
