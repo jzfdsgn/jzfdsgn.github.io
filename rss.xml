@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://jzfdsgn.github.io/">
+    <title>Big Bounty Cards</title>
+    <link href="https://jzfdsgn.github.io/" rel="alternate" type="text/html" />
+    <link href="https://jzfdsgn.github.io/rss.xml" rel="self" type="application/atom+xml" />
+    <id>https://jzfdsgn.github.io/</id>
+    <updated>2025-05-26T06:06:45.676Z</updated>
+    <subtitle>A tiny, little blog about a big ol’ hobby — the One Piece Card Game.</subtitle>
+    <generator uri="https://postalgic.app/" version="1.0">Postalgic</generator>
+    
+    <entry>
+        <title>Testing</title>
+        <link href="https://jzfdsgn.github.io/2025/05/25/testing/" rel="alternate" type="text/html" />
+        <id>https://jzfdsgn.github.io/2025/05/25/testing/</id>
+        <published>2025-05-26T05:42:09.304Z</published>
+        <updated>2025-05-26T05:42:09.304Z</updated>
+        <content type="html"><![CDATA[<p>Hello out there…</p>]]></content>
+    </entry>
+</feed>
