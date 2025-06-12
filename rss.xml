@@ -4,7 +4,7 @@
         <title>Big Bounty Cards</title>
         <link>https://jzfdsgn.github.io/</link>
         <description>Posts from Big Bounty Cards</description>
-        <lastBuildDate>2025-06-11T21:37:40.744Z</lastBuildDate>
+        <lastBuildDate>2025-06-12T02:39:07.683Z</lastBuildDate>
         <generator>Postalgic</generator>
         <docs>https://www.rssboard.org/rss-specification</docs>
         
@@ -12,9 +12,7 @@
             <title>Egman’s OP11 Half Case Tourney</title>
             <link>https://jzfdsgn.github.io/2025/06/11/egman-s-op11-half-case-tourney/</link>
             <description><![CDATA[<div style="margin: 16px 0;"><a href="https://jzfdsgn.github.io/images/embeds/embed-1749667292-C2CDF7C2-00.jpg" target="_blank"><img src="https://jzfdsgn.github.io/images/embeds/embed-1749667292-C2CDF7C2-00.jpg" alt="Image 1" width="100%"/></a></div>
-<p>Yesterday Egman hosted his half case tourney, one of our first big OP11 events. While it’s not an official event, it’s still a good peek into the current playing field of the meta. Especially considering the sim hadn’t been updated with the new cards prior to the event.</p><p><a href="https://egmanevents.com/one-piece-op11-tournaments/half-case-tournament">Here’s the link to Egmans’s report.</a></p><p>It’s not surprising that UP Luffy and Belo Betty make up a majority of the pie chart. What is surprising is the diversity in the rest of the leaders played. And even more surprising is that Lucci won the whole event. The finals were Lucci vs. Belo Betty.</p><p>It’s notable that Lucci did not run into any Buggy’s the entire tournament, which is supposed to be a really bad matchup for the cat.</p><p>It gives me some hope to see BP Luffy with a strong showing, coming in 3rd. Not to mention there are 2 of them in the Top 8.</p><p>Now I feel even more unsure of what to play for Vegas. So I asked my buddy Claude (AI) to give me the conversion rates of each leader in the top 16. Check it out! <br><iframe>
-
-<!DOCTYPE html>
+<p>Yesterday Egman hosted his half case tourney, one of our first big OP11 events. While it’s not an official event, it’s still a good peek into the current playing field of the meta. Especially considering the sim hadn’t been updated with the new cards prior to the event.</p><p><a href="https://egmanevents.com/one-piece-op11-tournaments/half-case-tournament">Here’s the link to Egmans’s report.</a></p><p>It’s not surprising that UP Luffy and Belo Betty make up a majority of the pie chart. What is surprising is the diversity in the rest of the leaders played. And even more surprising is that Lucci won the whole event. The finals were Lucci vs. Belo Betty.</p><p>It’s notable that Lucci did not run into any Buggy’s the entire tournament, which is supposed to be a really bad matchup for the cat.</p><p>It gives me some hope to see BP Luffy with a strong showing, coming in 3rd. Not to mention there are 2 of them in the Top 8.</p><p>Now I feel even more unsure of what to play for Vegas. So I asked my buddy Claude (AI) to give me the conversion rates of each leader in the top 16. Check it out! <br></p><!DOCTYPE html>
 
 <html lang="en">
 <head>
@@ -28,6 +26,7 @@
             box-sizing: border-box;
         }
 
+```
     body {
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         background: #11192C;
@@ -88,6 +87,7 @@
         font-size: 0.9em;
     }
 </style>
+```
 
 </head>
 <body>
@@ -99,6 +99,8 @@
                     <div class="conversion-rate">28.6%</div>
                     <div class="deck-details">4 of 14 players made Top 16<br>Highest conversion rate!</div>
                 </div>
+
+```
             <div class="stat-card medium">
                 <h3>Yamato</h3>
                 <div class="conversion-rate">20.0%</div>
@@ -143,11 +145,16 @@
         </div>
     </div>
 </div>
+```
 
 </body>
 </html>
 
-</iframe> <br>Now I’m strongly considering BP Luffy, but that means having to buy EB02 secret luffy. I could also just play Betty since I have the deck. Decisions, decisions..</p><p>Till next time, <br>GGs</p>]]></description>
+\
+Now I’m strongly considering BP Luffy, but that means having to buy EB02 secret luffy. I could also just play Betty since I have the deck. Decisions, decisions..
+
+Till next time, \
+GGs]]></description>
             <pubDate>2025-06-11T18:36:41.829Z</pubDate>
             <guid isPermaLink="true">https://jzfdsgn.github.io/2025/06/11/egman-s-op11-half-case-tourney/</guid>
         </item>
