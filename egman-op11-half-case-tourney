@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deck Conversion Rates</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: sans-serif;
+            background: #4A6ABE;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: #11192C;
+            border-radius: 20px;
+            overflow: hidden;
+        }
+        
+        .content {
+            padding: 0;
+        }
+        
+        .stats-grid {
+            display: flex;
+            flex-direction: column;
+            flex-wrap: wrap;
+            border: 1px solid rgba(92, 132, 238, 0.2);
+            border-radius: 20px;
+            overflow: hidden;
+        }
+        
+        .stat-card {
+            background: rgba(92, 132, 238, 0.08);
+            padding: 25px;
+            flex: 1;
+            min-width: 280px;
+            border-right: 1px solid rgba(92, 132, 238, 0.2);
+            border-top: 1px solid rgba(92, 132, 238, 0.2);
+            transition: background 0.3s ease;
+        }
+        
+        .stat-card:first-child {
+            border-top: none;
+        }
+        
+        .stat-card:last-child {
+            border-right: none;
+        }
+        
+        .stat-card:hover {
+            background: rgba(92, 132, 238, 0.12);
+        }
+        
+        .stat-card h3 {
+            font-size: 1.2rem;
+            margin-bottom: 4px;
+            color: #E2E8F0;
+        }
+        
+        .conversion-rate {
+            font-size: 2rem;
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+        
+        .high .conversion-rate { color: #6B9B47; }
+        .medium .conversion-rate { color: #C5964F; }
+        .low .conversion-rate { color: #B85450; }
+        
+        .deck-details {
+            color: #94A3B8;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="content">
+            <div class="stats-grid">
+                <div class="stat-card high">
+                    <h3>Belo Betty</h3>
+                    <div class="conversion-rate">28.6%</div>
+                    <div class="deck-details">4 of 14 players made Top 16<br>Highest conversion rate!</div>
+                </div>
+                
+                <div class="stat-card medium">
+                    <h3>Yamato</h3>
+                    <div class="conversion-rate">20.0%</div>
+                    <div class="deck-details">1 of 5 players made Top 16<br>Small but mighty!</div>
+                </div>
+                
+                <div class="stat-card medium">
+                    <h3>Monkey.D.Luffy (OP09-061)</h3>
+                    <div class="conversion-rate">18.2%</div>
+                    <div class="deck-details">2 of 11 players made Top 16<br>Solid performance</div>
+                </div>
+                
+                <div class="stat-card medium">
+                    <h3>Rob Lucci</h3>
+                    <div class="conversion-rate">16.7%</div>
+                    <div class="deck-details">1 of 6 players made Top 16<br>Consistent choice</div>
+                </div>
+                
+                <div class="stat-card medium">
+                    <h3>Monkey.D.Luffy (OP05-060)</h3>
+                    <div class="conversion-rate">14.3%</div>
+                    <div class="deck-details">1 of 7 players made Top 16<br>Decent showing</div>
+                </div>
+                
+                <div class="stat-card low">
+                    <h3>Monkey.D.Luffy (OP11-040)</h3>
+                    <div class="conversion-rate">11.5%</div>
+                    <div class="deck-details">3 of 26 players made Top 16<br>Most played, underperformed</div>
+                </div>
+                
+                <div class="stat-card low">
+                    <h3>Buggy</h3>
+                    <div class="conversion-rate">8.3%</div>
+                    <div class="deck-details">1 of 12 players made Top 16<br>Struggled to convert</div>
+                </div>
+                
+                <div class="stat-card low">
+                    <h3>Monkey.D.Luffy (EB02-010)</h3>
+                    <div class="conversion-rate">7.7%</div>
+                    <div class="deck-details">1 of 13 players made Top 16<br>Lowest conversion rate</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

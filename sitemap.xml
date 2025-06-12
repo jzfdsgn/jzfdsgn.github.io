@@ -2,35 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://jzfdsgn.github.io/</loc>
-        <lastmod>2025-06-12T05:39:51.713Z</lastmod>
+        <lastmod>2025-06-12T19:06:05.319Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
         <loc>https://jzfdsgn.github.io/archives/</loc>
-        <lastmod>2025-06-12T05:39:51.713Z</lastmod>
+        <lastmod>2025-06-12T19:06:05.319Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://jzfdsgn.github.io/tags/</loc>
-        <lastmod>2025-06-12T05:39:51.713Z</lastmod>
+        <lastmod>2025-06-12T19:06:05.319Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://jzfdsgn.github.io/categories/</loc>
-        <lastmod>2025-06-12T05:39:51.713Z</lastmod>
+        <lastmod>2025-06-12T19:06:05.319Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>
     
-    <url>
-        <loc>https://jzfdsgn.github.io/2025/06/11/egman-s-op11-half-case-tourney/</loc>
-        <lastmod>2025-06-11T18:36:41.829Z</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
     <url>
         <loc>https://jzfdsgn.github.io/2025/06/10/road-to-vegas-regional/</loc>
         <lastmod>2025-06-10T21:04:54.062Z</lastmod>
@@ -58,25 +52,25 @@
     
     <url>
         <loc>https://jzfdsgn.github.io/tags/prerelease/</loc>
-        <lastmod>2025-06-12T05:39:51Z</lastmod>
+        <lastmod>2025-06-12T19:06:05Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://jzfdsgn.github.io/tags/op11/</loc>
-        <lastmod>2025-06-12T05:39:51Z</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://jzfdsgn.github.io/tags/tournament-recap/</loc>
-        <lastmod>2025-06-12T05:39:51Z</lastmod>
+        <lastmod>2025-06-12T19:06:05Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://jzfdsgn.github.io/tags/pulls/</loc>
-        <lastmod>2025-06-12T05:39:51Z</lastmod>
+        <lastmod>2025-06-12T19:06:05Z</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://jzfdsgn.github.io/tags/tournament-recap/</loc>
+        <lastmod>2025-06-12T19:06:05Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
@@ -84,13 +78,13 @@
     
     <url>
         <loc>https://jzfdsgn.github.io/2025/06/</loc>
-        <lastmod>2025-06-12T05:39:51Z</lastmod>
+        <lastmod>2025-06-12T19:06:05Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
         <loc>https://jzfdsgn.github.io/2025/05/</loc>
-        <lastmod>2025-06-12T05:39:51Z</lastmod>
+        <lastmod>2025-06-12T19:06:05Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
